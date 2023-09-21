@@ -19,7 +19,7 @@ http://175.158.62.142:8888/stream/channelid/1513398178?ticket=81082FB46CB78BF81E
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="LOKAL" tvg-id="MNCTV - [Channel 82].id" tvg-name="MNCTV - [Channel 82].id", MNCTV
 http://175.158.62.142:8888/stream/channelid/2027505951?ticket=1D09A0345407BCD5AC4A3FE2399E571DC82F3420&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="LOKAL" tvg-id="NET TV" tvg-name="NET TV", NET.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="LOKAL" tvg-id="NET TV" tvg-name="NET TV", NET.
 http://175.158.62.142:8888/stream/channelid/1605999320?ticket=8BEB672353820395EF38EFC764D87C53D01E7554&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="LOKAL" tvg-id="ANTV" tvg-name="ANTV", ANTV
