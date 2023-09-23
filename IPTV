@@ -4,6 +4,9 @@ http://175.158.62.142:8888/stream/channelid/888777184?ticket=27CCF31EAB1838A6ED8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="LOKAL" tvg-id="SCTV" tvg-name="SCTV", SCTV
 http://175.158.62.142:8888/stream/channelid/1789598785?ticket=3E1E0F070B52119B67BFDD95E349D3C6F1D0627A&profile=pass
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="LOKAL" tvg-id="Indosiar" tvg-name="Indosiar", Indosiar
+http://175.158.62.142:8888/stream/channelid/636008509?ticket=1DC6BAE52BF46CA40EA544E2E55C9BFFBBFE420A&profile=pass
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="LOKAL" tvg-id="Trans TV" tvg-name="Trans TV", Trans TV
 http://175.158.62.142:8888/stream/channelid/859070769?ticket=89FCE3F53336AD66558EA38EA448359967FCFB08&profile=pass
 
