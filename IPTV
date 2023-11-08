@@ -26,19 +26,19 @@ http://175.158.62.142:8888/stream/channelid/2027505951?ticket=1D09A0345407BCD5AC
 http://175.158.62.142:8888/stream/channelid/1605999320?ticket=8BEB672353820395EF38EFC764D87C53D01E7554&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="LOKAL" tvg-id="ANTV" tvg-name="ANTV", ANTV
-http://175.158.62.142:8888/stream/channelid/1836684688?ticket=2DD87E24113B207652FCCDBCAFC3E414BC9B60F2&profile=pass
+http://103.166.27.2:8112/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="LOKAL" tvg-id="Mentari TV" tvg-name="Mentari TV", Mentari TV
-http://175.158.62.142:8888/stream/channelid/388530625?ticket=FE90BB0D1C0BB2B413C227F3F745C8F8D115481A&profile=pass
+http://103.166.27.2:8112/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png" group-title="LOKAL" tvg-id="Kompas TV" tvg-name="Kompas TV", Kompas TV
-http://175.158.62.142:8888/stream/channelid/163852109?ticket=54523191EA25F2E0EF734793CB579A7F202C571F&profile=pass
+http://103.166.27.2:8112/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="LOKAL" tvg-id="Metro TV" tvg-name="Metro TV", Metro TV
 http://175.158.62.142:8888/stream/channelid/1588322181?ticket=12B3D65394697D85BCF0C1CBF08CAC59B0466884&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="LOKAL" tvg-id="tv One" tvg-name="tv One", tvOne
-http://175.158.62.142:8888/stream/channelid/2042596338?ticket=0EF6E1FBE523FAD239DD937D825EA5E6232BE4CF&profile=pass
+http://103.166.27.2:8112/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="LOKAL" tvg-id="iNews" tvg-name="iNews", iNews
 http://175.158.62.142:8888/stream/channelid/1093303856?ticket=2349E021B6FFF4950095F90E5A409FF542CC7245&profile=pass
